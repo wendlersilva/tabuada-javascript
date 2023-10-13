@@ -1,0 +1,2 @@
+### Exercício Javascript
+- Praticando programação
